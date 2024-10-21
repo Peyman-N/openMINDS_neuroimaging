@@ -6,7 +6,9 @@
   </picture>
 </a>
 
-# openMINDS_core
+# openMINDS_MRI
+
+# This repository has changed its name, and all new development is occurring on openMINDS_neuroimaging.
 
 [![GitHub][license-shield]][license-url]
 [![GitHub contributors][contributors-shield]][contributors-url]
